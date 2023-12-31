@@ -14,4 +14,9 @@
 - The interactive data table allows users to choose a fund group and generate the funds ranked by weighted average returns, with the option to filter the fund list by minimum AUM, Sharpe ration or dividend yield.
 
 ## 💡 Highlights 
-<img src="" > 
+<img src="https://github.com/wayne-kuanghui-shen/python-master_fund_selection_system/blob/main/highlights/asset-region.png"> 
+<img src="https://github.com/wayne-kuanghui-shen/python-master_fund_selection_system/blob/main/highlights/equity_subgroups.png"> 
+<img src="https://github.com/wayne-kuanghui-shen/python-master_fund_selection_system/blob/main/highlights/fund_groups.png"> 
+<img src="https://github.com/wayne-kuanghui-shen/python-master_fund_selection_system/blob/main/highlights/example_equity.png"> 
+<img src="https://github.com/wayne-kuanghui-shen/python-master_fund_selection_system/blob/main/highlights/example_bond.png"> 
+<img src="https://github.com/wayne-kuanghui-shen/python-master_fund_selection_system/blob/main/highlights/example_alternative.png"> 
