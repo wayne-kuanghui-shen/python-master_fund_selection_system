@@ -9,9 +9,9 @@
 
 ## 📍 Solutions
 - The Master Fund Selection System provides a quantitative approach to rank top-performaning funds based on weighted average returns of different horizons
-- Funds are classified by their risk-return profile and the subgroups are adjusted by the distributions of overall funds
-- Funds with shorter track records and limited sizes are eliminated and potential risks such as small AUM and low Sharpe ratio are marked
-- The output, an interactive data table, allows users to choose the fund group of interest and generate a selected number of funds based on weighted average returns, with the option to filter by minimum AUM, Sharpe ration or dividend yield.
+- Funds are classified by their risk-return profile and adjusted by the distributions of overall funds
+- Funds with shorter track record and limited size are eliminated and potential risks associated are marked
+- The interactive data table allows users to choose a fund group and generate the funds ranked by weighted average returns, with the option to filter by minimum AUM, Sharpe ration or dividend yield.
 
 ## 💡 Highlights 
 <img src="" > 
