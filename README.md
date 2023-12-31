@@ -1,6 +1,6 @@
 # *Master Fund Selection System*
 
-**✏️ Introduction**: Hiring the right professional managers is key to successful portfolio construction. By identifying the top-performing funds, we can potentially beat the passive indice and generate excess returns after adjusting for risks. 
+**✏️ Introduction**: Hiring the right professional managers is key to successful portfolio construction. By identifying the top-performing funds, we can potentially beat passive indice and generate excess risk-adjusted returns
 
 ## ⛳️ Objectives 
 - Categorize liquid investment funds by asset class, region and strategy
